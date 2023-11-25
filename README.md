@@ -5,10 +5,6 @@
 
 <h1 align="center"> Hi there 👋, I'm Dav Suraj </h1> 
 
- <!-- Your Coding GIF -->
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
  <!-- Profile Views Badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=davsuraj&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -31,7 +27,7 @@
 
 <!-- GitHub Stats Section -->
 ## 💹 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmans0414&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davsuraj&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- GitHub Stats Section -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=davsuraj&hide_border=false&include_all_commits=false&count_private=false" alt="davsuraj" /></p>
