@@ -5,11 +5,9 @@
 
 <h1 align="center"> Hi there 👋, I'm Dav Suraj </h1> 
 
-<div align="center">
- 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=%2303944A&size=22&center=true&vCenter=true&width=600&height=80&lines=I+love+building+web+applications)
- 
- </div>
+ <!-- Your Coding GIF -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
  <!-- Profile Views Badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=davsuraj&label=Profile%20views&color=0e75b6&style=flat)
@@ -29,13 +27,7 @@
 <a href="mailto:davsurja@gmail.com"><img src="https://img.shields.io/badge/Gmail%20-%23F05033.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <!-- Add your skills badges here -->
- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
- <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-2c3e50?style=for-the-badge&logo=python&logoColor=blue"/> 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/Python-2c3e50?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
 
 <!-- GitHub Stats Section -->
 ## 💹 GitHub Stats
