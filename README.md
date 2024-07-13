@@ -9,13 +9,13 @@
 ![Profile views](https://komarev.com/ghpvc/?username=davsuraj&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Intro Section -->
-🔭 I’m currently working on a **Python projects**
+🔭 I’m currently working on a **Angular based project such as hotel-management**
 
-🌱 I’m currently learning **Advanced concepts of Javascript**
+🌱 I’m currently learning **Advanced concepts of asp.net core**
 
 💁 I’m looking for help with Distributed System Design and building scalable applications
 
-💬 Ask me about **HTML, CSS, JS, and Python**
+💬 Ask me about **HTML, CSS,bootstrap, JS,jquery and Python,.net,c#,angular, **
 
 <!-- Contact Section -->
 📫 How to reach me:
