@@ -3,7 +3,7 @@
 **davsuraj/davsuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center"> Hi there 👋, I'm Dav Suraj </h1> 
+<h1 align="center"> Hi there 👋, I'm Suraj dev  </h1> 
 
  <!-- Profile Views Badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=davsuraj&label=Profile%20views&color=0e75b6&style=flat)
