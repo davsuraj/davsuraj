@@ -1,6 +1,6 @@
-<!-- Profile Header -->
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Suraj Dev</h1>
-<h3 align="center">🚀 Full Stack Developer | .NET Core Enthusiast | ERP Builder</h3>
+<h3 align="center">🚀 Full Stack Developer | .NET Core Specialist | ERP Builder</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=davsuraj&label=Profile%20Views&color=blue&style=for-the-badge"/>
@@ -8,31 +8,33 @@
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently building **.NET Core & Angular web applications**
-- 🌱 Learning advanced **ASP.NET Core & scalable Web APIs**
-- 💡 Interested in **ERP systems & scalable backend architecture**
-- 💬 Ask me about  
-  **.NET Core, C#, SQL Server, Web API, LINQ, Angular, JavaScript, jQuery, HTML, CSS, Bootstrap**
+- 🔭 Currently developing **ERP & scalable web applications**
+- 🌱 Continuously learning **advanced ASP.NET Core & scalable architectures**
+- 💡 Passionate about building **real-world business solutions**
+- 🎯 Focused on clean code & performance
+
+💬 Ask me about  
+**.NET Core, C#, SQL Server, Web API, LINQ, Angular, JavaScript, jQuery, HTML, CSS, Bootstrap**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
+### Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver"/>
 </p>
 
-### Frontend
+### Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=angular,js,html,css,bootstrap,jquery"/>
 </p>
 
-### Tools
+### Development Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github"/>
 </p>
 
 ---
@@ -54,13 +56,14 @@
 ---
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=davsuraj&theme=onedark&row=1"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 <p align="center">
 <a href="mailto:davsurja@gmail.com">
@@ -72,6 +75,6 @@
 
 ## 🚀 Developer Motto
 ```diff
-+ Code Smart
++ Write Clean Code
 + Build Scalable Systems
-+ Keep Learning
++ Keep Improving Everyday
